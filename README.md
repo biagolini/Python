@@ -16,7 +16,10 @@ https://github.com/biagolini/PythonDataScience
 
 ## F
 ### Flask: Hello World
-https://github.com/biagolini/PythonFlaskHelloWorld
+#### Using VM
+https://github.com/biagolini/PythonFlaskHelloWorldOnVM
+#### Using Docker
+https://github.com/biagolini/PythonFlaskHelloWorldOnDocker
 
 ## G
 
