@@ -2,6 +2,10 @@
 **Autor:** Carlos Biagolini-Jr.
 
 ## A
+### AWS STS Assume role
+Python script designed to facilitate the secure assumption of AWS IAM roles
+
+https://github.com/biagolini/PythonAwsStsAssumeRole
 
 ## B
 ### Boto3 Overview
