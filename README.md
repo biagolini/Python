@@ -8,8 +8,15 @@ Python script designed to facilitate the secure assumption of AWS IAM roles
 https://github.com/biagolini/PythonAwsStsAssumeRole
 
 ## B
-### Boto3 Overview
+### Boto3 
+#### Overview
 https://github.com/biagolini/PythonBoto3
+
+#### SageMaker Model Interacttion Testing
+
+Test Python interaction to Flan-T5 XL model on AWS SageMaker by sending sample queries to demonstrate its capabilities.
+
+https://github.com/biagolini/PythonBoto3SageMakerModelInteracttionTesting
 
 ## C
 ### Cron with Threads
