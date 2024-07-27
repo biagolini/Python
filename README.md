@@ -59,6 +59,12 @@ https://github.com/biagolini/PythonFlaskRESTfulAPI
 
 ## P
 
+### PDF Exporter (Private)
+
+Provide a method to export web presentations to high-quality PDFs by downloading each slide as an image and compiling them into a PDF.
+
+https://github.com/biagolini/PythonPdfExporter
+
 ## Q
 
 ## R
