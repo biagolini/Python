@@ -79,6 +79,13 @@ https://github.com/biagolini/PythonPdfExporter
 
 ## W
 
+### WebPage Show HTTP Request Info
+
+Simple Flask project to display HTTP request information.
+
+https://github.com/biagolini/PythonWebPageShowHttpRequestInfo
+
+
 ## X 
 
 ## Y 
