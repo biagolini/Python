@@ -45,6 +45,12 @@ https://github.com/biagolini/PythonFlaskRESTfulAPI
 
 ## I
 
+### Image Number Stamp
+
+Generate a series of images with sequential numbers centered on top of a base image, ideal for placeholder images in testing and demonstrations.
+
+https://github.com/biagolini/PythonImageNumberStamp
+
 ## J
 
 ## K
