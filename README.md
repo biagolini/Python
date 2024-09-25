@@ -59,6 +59,12 @@ https://github.com/biagolini/PythonImageNumberStamp
 
 ## M
 
+### Markdown to docx converter
+
+Converts Markdown files to docx format using pypandoc
+
+https://github.com/biagolini/PythonMarkdownToDocxConverter
+
 ## N
 
 ## O
