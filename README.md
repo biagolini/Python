@@ -6,7 +6,7 @@
 
 ### AWS Bedrock
 
-Demonstration of integrating Python with AWS Bedrock to invoke foundation models
+Demonstration of integrating Python with AWS Bedrock to invoke foundation models.
 
 https://github.com/biagolini/PythonAwsBedrockIntegration
 
@@ -18,7 +18,7 @@ https://github.com/biagolini/PythonBoto3SageMakerModelInteracttionTesting
 
 ### AWS STS Assume role
 
-Python script designed to facilitate the secure assumption of AWS IAM roles
+Python script designed to facilitate the secure assumption of AWS IAM roles.
 
 https://github.com/biagolini/PythonAwsStsAssumeRole
 
@@ -76,7 +76,7 @@ https://github.com/biagolini/PythonImageNumberStamp
 
 ### Markdown to docx converter
 
-Converts Markdown files to docx format using pypandoc
+Converts Markdown files to docx format using pypandoc.
 
 https://github.com/biagolini/PythonMarkdownToDocxConverter
 
@@ -93,6 +93,12 @@ Provide a method to export web presentations to high-quality PDFs by downloading
 https://github.com/biagolini/PythonPdfExporter
 
 ## Q
+
+### QR Code Generator
+
+Script to generate QR Codes containing internet links.
+
+https://github.com/biagolini/PythonCodeGenerator
 
 ## R
 
