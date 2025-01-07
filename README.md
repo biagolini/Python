@@ -30,6 +30,14 @@ https://github.com/biagolini/PythonAwsStsAssumeRole
 
 https://github.com/biagolini/PythonCron
 
+
+### CSV Data Merge
+
+Combine multiple CSV files into a single file, tracking the source file and adding randomized unique IDs to each row.
+
+https://github.com/biagolini/PythonCsvDataMerger
+
+
 ## D
 
 ### Data Science Basics
