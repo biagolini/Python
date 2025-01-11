@@ -88,6 +88,12 @@ Converts Markdown files to docx format using pypandoc.
 
 https://github.com/biagolini/PythonMarkdownToDocxConverter
 
+### Music Compiler
+
+Merge audio files (.wav and .mp3) into a single track with fade effects and a start time list.
+
+https://github.com/biagolini/PythonMusicCompiler
+
 ## N
 
 ## O
