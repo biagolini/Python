@@ -64,6 +64,13 @@ https://github.com/biagolini/PythonFlaskRESTfulAPI
 
 ## G
 
+### Google/YouTube API
+
+Showcasing Python integration with Google/YouTube APIs.
+
+https://github.com/biagolini/PythonGoogleYoutubeApi
+
+
 ## H
 
 ## I
