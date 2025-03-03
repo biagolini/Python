@@ -1,7 +1,16 @@
 # Python
 
 **Autor:** Carlos Biagolini-Jr.
+
 **Linkedin:** [https://www.linkedin.com/in/biagolini/](https://www.linkedin.com/in/biagolini/)
+
+**Medium:** [https://medium.com/@biagolini](https://medium.com/@biagolini)
+
+[EN]: This repository serves as a link repository for various Python-based projects and code examples that I have developed. Each linked repository demonstrates different aspects of Python programming, including integration with AWS services, data processing, automation, and web development. The goal is to provide practical examples that can be used as references for learning and development. For more in-depth discussions and technical articles, visit my LinkedIn and Medium profiles.
+
+[PT]: Este repositório serve como um repositório de links para diversos projetos e exemplos de código em Python que desenvolvi. Cada repositório vinculado demonstra diferentes aspectos da programação em Python, incluindo integração com serviços AWS, processamento de dados, automação e desenvolvimento web. O objetivo é fornecer exemplos práticos que possam ser utilizados como referência para aprendizado e desenvolvimento. Para discussões mais aprofundadas e artigos técnicos, visite meus perfis no LinkedIn e no Medium.
+
+---
 
 ## A
 
