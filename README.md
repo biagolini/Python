@@ -14,6 +14,12 @@
 
 ## A
 
+### AWS API Gateway WebSocket
+
+A serverless real-time chat application using AWS API Gateway (WebSocket), Lambda, and DynamoDB, with a lightweight front-end for seamless messaging and session tracking.
+
+[https://github.com/biagolini/PythonAwsApiGatewayWebSocket](https://github.com/biagolini/PythonAwsApiGatewayWebSocket)
+
 ### AWS Bedrock
 
 Demonstration of integrating Python with AWS Bedrock to invoke foundation models.
