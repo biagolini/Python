@@ -14,6 +14,10 @@
 
 ## A
 
+### Audio Splitter
+Splits .mp3 files into smaller chunks based on silence detection.
+[https://github.com/biagolini/PythonAudioSplitter](https://github.com/biagolini/PythonAudioSplitter)
+
 ### AWS API Gateway WebSocket
 
 A serverless real-time chat application using AWS API Gateway (WebSocket), Lambda, and DynamoDB, with a lightweight front-end for seamless messaging and session tracking.
@@ -25,6 +29,10 @@ A serverless real-time chat application using AWS API Gateway (WebSocket), Lambd
 Demonstration of integrating Python with AWS Bedrock to invoke foundation models.
 
 [https://github.com/biagolini/PythonAwsBedrockIntegration](https://github.com/biagolini/PythonAwsBedrockIntegration)
+
+### AWS Lambda Authorizer
+Secure serverless API using JWT authentication with Lambda Authorizers.
+[https://github.com/biagolini/PythonAwsLambdaAuthorizer](https://github.com/biagolini/PythonAwsLambdaAuthorizer)
 
 ### AWS SageMaker
 
@@ -154,6 +162,10 @@ Script to generate QR Codes containing internet links.
 
 ## S
 
+### Speaker Diarization Tool
+Performs speaker diarization on audio using pyannote-audio and extracts segments per speaker.
+[https://github.com/biagolini/PythonSpeakerDiarizationTool](https://github.com/biagolini/PythonSpeakerDiarizationTool)
+
 ## T
 
 ### Text To Speech (TTS)
@@ -167,6 +179,10 @@ Implementation of the Kokoro-82M text-to-speech model that converts text into hi
 ## U
 
 ## V
+
+### Video to MP3
+Extracts audio from video files and saves as MP3 using ffmpeg-python.
+[https://github.com/biagolini/PythonVideoToMp3](https://github.com/biagolini/PythonVideoToMp3)
 
 ## W
 
