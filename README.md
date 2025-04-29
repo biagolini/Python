@@ -180,9 +180,9 @@ Implementation of the Kokoro-82M text-to-speech model that converts text into hi
 
 ## V
 
-### Video to MP3
-Extracts audio from video files and saves as MP3 using ffmpeg-python.
-[https://github.com/biagolini/PythonVideoToMp3](https://github.com/biagolini/PythonVideoToMp3)
+### Video To Audio Converter
+Converting video files to audio formats
+[https://github.com/biagolini/PythonVideoToAudioConverter](https://github.com/biagolini/PythonVideoToAudioConverter)
 
 ## W
 
