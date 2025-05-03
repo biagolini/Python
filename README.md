@@ -52,6 +52,12 @@ Python script designed to facilitate the secure assumption of AWS IAM roles.
 
 [https://github.com/biagolini/PythonAwsStsAssumeRole](https://github.com/biagolini/PythonAwsStsAssumeRole)
 
+### AWS Transcribe Streaming
+
+Real-time speech-to-text transcription pipeline using Amazon Transcribe Streaming and live microphone input in Python.
+
+[https://github.com/biagolini/PythonAwsTranscribeStreaming](https://github.com/biagolini/PythonAwsTranscribeStreaming)
+
 ## B
 
 ## C
