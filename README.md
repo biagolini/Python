@@ -46,6 +46,12 @@ Demonstration of Python interaction to Flan-T5 XL model on AWS SageMaker by send
 
 [https://github.com/biagolini/PythonBoto3SageMakerModelInteracttionTesting](https://github.com/biagolini/PythonBoto3SageMakerModelInteracttionTesting)
 
+### AWS Step Functions
+
+Serverless session handler that aggregates user messages over time using Step Functions, Lambda, and DynamoDB.
+
+[https://github.com/biagolini/PythonAwsStepFunctions](https://github.com/biagolini/PythonAwsStepFunctions)
+
 ### AWS STS Assume role
 
 Python script designed to facilitate the secure assumption of AWS IAM roles.
