@@ -68,6 +68,12 @@ Real-time speech-to-text transcription pipeline using Amazon Transcribe Streamin
 
 ## C
 
+### Chatwoot
+
+Explore and validate the capabilities of Chatwoot's APIs in a local development environment.
+
+[https://github.com/biagolini/PythonChatwoot](https://github.com/biagolini/PythonChatwoot)
+
 ### Cron with Threads
 
 Python-based cron job scheduling using threads.
