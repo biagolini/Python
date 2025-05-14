@@ -210,6 +210,12 @@ Simple Flask project to display HTTP request information.
 
 [https://github.com/biagolini/PythonWebPageShowHttpRequestInfo](https://github.com/biagolini/PythonWebPageShowHttpRequestInfo)
 
+### WhatsApp Webhook Integration with AWS
+
+Implementation of a serverless webhook integration for Meta’s WhatsApp Business Platform using AWS Lambda and API Gateway.
+
+[https://github.com/biagolini/PythonWhatsappAwsWebhook](https://github.com/biagolini/PythonWhatsappAwsWebhook)
+
 ## X
 
 ## Y
