@@ -205,8 +205,16 @@ Implementation of the Kokoro-82M text-to-speech model that converts text into hi
 ## V
 
 ### Video To Audio Converter
+
 Converting video files to audio formats
+
 [https://github.com/biagolini/PythonVideoToAudioConverter](https://github.com/biagolini/PythonVideoToAudioConverter)
+
+### Video From Image and Audio
+
+Generate a video from a static image (JPG) and an audio file (MP3). 
+
+[https://github.com/biagolini/PythonVideoFromImageAudio](https://github.com/biagolini/PythonVideoFromImageAudio)
 
 ## W
 
