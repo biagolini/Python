@@ -34,6 +34,12 @@ Demonstration of integrating Python with AWS Bedrock to invoke foundation models
 Secure serverless API using JWT authentication with Lambda Authorizers.
 [https://github.com/biagolini/PythonAwsLambdaAuthorizer](https://github.com/biagolini/PythonAwsLambdaAuthorizer)
 
+### AWS EventBridge for Cross-Region Event Replication
+
+AWS Lambda source code for a demo on cross-region event replication using EventBridge.
+
+[https://github.com/biagolini/PythonAwsLambdaEventBridgeCrossRegion](https://github.com/biagolini/PythonAwsLambdaEventBridgeCrossRegion)
+
 ### AWS SageMaker
 
 Demo code for testing how to deploy an AWS Lambda using Amazon ECR.
