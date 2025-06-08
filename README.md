@@ -16,6 +16,7 @@
 
 ### Audio Splitter
 Splits .mp3 files into smaller chunks based on silence detection.
+
 [https://github.com/biagolini/PythonAudioSplitter](https://github.com/biagolini/PythonAudioSplitter)
 
 ### AWS API Gateway WebSocket
@@ -195,7 +196,9 @@ Script to generate QR Codes containing internet links.
 ## S
 
 ### Speaker Diarization Tool
+
 Performs speaker diarization on audio using pyannote-audio and extracts segments per speaker.
+
 [https://github.com/biagolini/PythonSpeakerDiarizationTool](https://github.com/biagolini/PythonSpeakerDiarizationTool)
 
 ## T
