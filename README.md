@@ -31,7 +31,9 @@ Demonstration of integrating Python with AWS Bedrock to invoke foundation models
 [https://github.com/biagolini/PythonAwsBedrockIntegration](https://github.com/biagolini/PythonAwsBedrockIntegration)
 
 ### AWS Lambda Authorizer
+
 Secure serverless API using JWT authentication with Lambda Authorizers.
+
 [https://github.com/biagolini/PythonAwsLambdaAuthorizer](https://github.com/biagolini/PythonAwsLambdaAuthorizer)
 
 ### AWS EventBridge for Cross-Region Event Replication
@@ -40,11 +42,17 @@ AWS Lambda source code for a demo on cross-region event replication using EventB
 
 [https://github.com/biagolini/PythonAwsLambdaEventBridgeCrossRegion](https://github.com/biagolini/PythonAwsLambdaEventBridgeCrossRegion)
 
-### AWS SageMaker
+### AWS Lambda using ECR
 
 Demo code for testing how to deploy an AWS Lambda using Amazon ECR.
 
 [https://github.com/biagolini/PythonAwsLambdaContainer](https://github.com/biagolini/PythonAwsLambdaContainer)
+
+### AWS Rekognition
+
+Demo code for Rekognition service using both local execution (e.g., on EC2 instances) and a serverless deployment via AWS Lambda.
+
+[https://github.com/biagolini/PythonAwsRekognition](https://github.com/biagolini/PythonAwsRekognition)
 
 ### AWS SageMaker
 
