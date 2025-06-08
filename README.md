@@ -15,6 +15,7 @@
 ## A
 
 ### Audio Splitter
+
 Splits .mp3 files into smaller chunks based on silence detection.
 
 [https://github.com/biagolini/PythonAudioSplitter](https://github.com/biagolini/PythonAudioSplitter)
@@ -31,23 +32,29 @@ Demonstration of integrating Python with AWS Bedrock to invoke foundation models
 
 [https://github.com/biagolini/PythonAwsBedrockIntegration](https://github.com/biagolini/PythonAwsBedrockIntegration)
 
-### AWS Lambda Authorizer
-
-Secure serverless API using JWT authentication with Lambda Authorizers.
-
-[https://github.com/biagolini/PythonAwsLambdaAuthorizer](https://github.com/biagolini/PythonAwsLambdaAuthorizer)
-
 ### AWS EventBridge for Cross-Region Event Replication
 
 AWS Lambda source code for a demo on cross-region event replication using EventBridge.
 
 [https://github.com/biagolini/PythonAwsLambdaEventBridgeCrossRegion](https://github.com/biagolini/PythonAwsLambdaEventBridgeCrossRegion)
 
+### AWS Lambda Authorizer
+
+Secure serverless API using JWT authentication with Lambda Authorizers.
+
+[https://github.com/biagolini/PythonAwsLambdaAuthorizer](https://github.com/biagolini/PythonAwsLambdaAuthorizer)
+
 ### AWS Lambda using ECR
 
 Demo code for testing how to deploy an AWS Lambda using Amazon ECR.
 
 [https://github.com/biagolini/PythonAwsLambdaContainer](https://github.com/biagolini/PythonAwsLambdaContainer)
+
+### AWS Polly
+
+Demo code for the Amazon Polly service to synthesize speech from text, using both local execution (e.g., on EC2 instances) and serverless deployment via AWS Lambda.
+
+[https://github.com/biagolini/PythonAwsPolly](https://github.com/biagolini/PythonAwsPolly)
 
 ### AWS Rekognition
 
