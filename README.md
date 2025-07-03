@@ -56,6 +56,12 @@ Demo code for the Amazon Polly service to synthesize speech from text, using bot
 
 [https://github.com/biagolini/PythonAwsPolly](https://github.com/biagolini/PythonAwsPolly)
 
+### AWS RDS Proxy MariaDB Lambda
+
+Python-based AWS Lambda function integrated with **Amazon RDS Proxy** and **MariaDB**, designed for stateless CRUD operations via **API Gateway**.
+
+[https://github.com/biagolini/PythonAwsRdsMariaDBProxyLambda](https://github.com/biagolini/PythonAwsRdsMariaDBProxyLambda)
+
 ### AWS Rekognition
 
 Demo code for Rekognition service using both local execution (e.g., on EC2 instances) and a serverless deployment via AWS Lambda.
