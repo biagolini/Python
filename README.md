@@ -196,6 +196,14 @@ Provide a method to export web presentations to high-quality PDFs by downloading
 
 [https://github.com/biagolini/PythonPdfExporter](https://github.com/biagolini/PythonPdfExporter)
 
+### PyTest
+
+#### PyTest Demo
+
+An introductory example of unit testing with pytest basics and CI/CD automation.
+
+[https://github.com/biagolini/PythonPytestDemo](https://github.com/biagolini/PythonPytestDemo)
+
 ## Q
 
 ### QR Code Generator
