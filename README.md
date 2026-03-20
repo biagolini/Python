@@ -32,6 +32,12 @@ Demonstration of integrating Python with AWS Bedrock to invoke foundation models
 
 [https://github.com/biagolini/PythonAwsBedrockIntegration](https://github.com/biagolini/PythonAwsBedrockIntegration)
 
+### AWS Bedrock Strands Voice Agent
+
+Real-time voice assistant built with the Strands Agents SDK and Amazon Nova Sonic. Demonstrates bidirectional audio streaming, tool calling, and DynamoDB integration through natural speech conversation.
+
+[https://github.com/biagolini/PythonAwsBedrockStrandsVoiceAgent](https://github.com/biagolini/PythonAwsBedrockStrandsVoiceAgent)
+
 ### AWS EventBridge for Cross-Region Event Replication
 
 AWS Lambda source code for a demo on cross-region event replication using EventBridge.
