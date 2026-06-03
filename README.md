@@ -38,6 +38,12 @@ Real-time voice assistant built with the Strands Agents SDK and Amazon Nova Soni
 
 [https://github.com/biagolini/PythonAwsBedrockStrandsVoiceAgent](https://github.com/biagolini/PythonAwsBedrockStrandsVoiceAgent)
 
+### AWS DynamoDB Search Methods Comparison
+
+Practical comparison of lexical, fuzzy (Levenshtein, SequenceMatcher, Regex), and semantic search methods using Amazon DynamoDB and Amazon Bedrock embeddings, with threshold impact analysis.
+
+[https://github.com/biagolini/PythonAwsSearchMethodsComparison](https://github.com/biagolini/PythonAwsSearchMethodsComparison)
+
 ### AWS EventBridge for Cross-Region Event Replication
 
 AWS Lambda source code for a demo on cross-region event replication using EventBridge.
@@ -242,17 +248,17 @@ Implementation of the Kokoro-82M text-to-speech model that converts text into hi
 
 ## V
 
-### Video To Audio Converter
-
-Converting video files to audio formats
-
-[https://github.com/biagolini/PythonVideoToAudioConverter](https://github.com/biagolini/PythonVideoToAudioConverter)
-
 ### Video From Image and Audio
 
 Generate a video from a static image (JPG) and an audio file (MP3). 
 
 [https://github.com/biagolini/PythonVideoFromImageAudio](https://github.com/biagolini/PythonVideoFromImageAudio)
+
+### Video To Audio Converter
+
+Converting video files to audio formats
+
+[https://github.com/biagolini/PythonVideoToAudioConverter](https://github.com/biagolini/PythonVideoToAudioConverter)
 
 ## W
 
