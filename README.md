@@ -58,6 +58,12 @@ Demonstrates how to use Amazon Bedrock AgentCore Memory to store conversation hi
 
 [https://github.com/biagolini/PythonAwsBedrockAgentCoreMemory](https://github.com/biagolini/PythonAwsBedrockAgentCoreMemory)
 
+#### Runtime
+
+Demonstrates how to deploy a custom AI agent on Amazon Bedrock AgentCore Runtime using a Docker container (ARM64) with FastAPI and the Bedrock Converse API.
+
+[https://github.com/biagolini/PythonAwsBedrockAgentCoreRuntime](https://github.com/biagolini/PythonAwsBedrockAgentCoreRuntime)
+
 ### AWS Bedrock Strands Voice Agent
 
 Real-time voice assistant built with the Strands Agents SDK and Amazon Nova Sonic. Demonstrates bidirectional audio streaming, tool calling, and DynamoDB integration through natural speech conversation.
