@@ -34,11 +34,29 @@ Demonstration of integrating Python with AWS Bedrock to invoke foundation models
 
 ### AWS Bedrock Agent Core
 
+#### Browser Tool
+
+Demonstrates how to use Amazon Bedrock AgentCore Browser Tool with the Strands Agents SDK to enable AI agents to navigate and extract content from web pages.
+
+[https://github.com/biagolini/PythonAwsBedrockAgentCoreBrowserTool](https://github.com/biagolini/PythonAwsBedrockAgentCoreBrowserTool)
+
 #### Code Interpreter
 
 Demonstrates how to use Amazon Bedrock AgentCore Code Interpreter in Sandbox mode to access and analyze S3 data in a secure sandbox environment.
 
 [https://github.com/biagolini/PythonAwsBedrockAgentCoreCodeInterpreter](https://github.com/biagolini/PythonAwsBedrockAgentCoreCodeInterpreter)
+
+#### Gateway
+
+Demonstrates how to use Amazon Bedrock AgentCore Gateway to expose tools via MCP and route tool calls to Lambda functions, enabling AI agents to interact with external services.
+
+[https://github.com/biagolini/PythonAwsBedrockAgentCoreGateway](https://github.com/biagolini/PythonAwsBedrockAgentCoreGateway)
+
+#### Memory
+
+Demonstrates how to use Amazon Bedrock AgentCore Memory to store conversation history and extract long-term semantic memories for AI agents.
+
+[https://github.com/biagolini/PythonAwsBedrockAgentCoreMemory](https://github.com/biagolini/PythonAwsBedrockAgentCoreMemory)
 
 ### AWS Bedrock Strands Voice Agent
 
