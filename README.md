@@ -32,6 +32,14 @@ Demonstration of integrating Python with AWS Bedrock to invoke foundation models
 
 [https://github.com/biagolini/PythonAwsBedrockIntegration](https://github.com/biagolini/PythonAwsBedrockIntegration)
 
+### AWS Bedrock Agent Core
+
+#### Code Interpreter
+
+Demonstrates how to use Amazon Bedrock AgentCore Code Interpreter in Sandbox mode to access and analyze S3 data in a secure sandbox environment.
+
+[https://github.com/biagolini/PythonAwsBedrockAgentCoreCodeInterpreter](https://github.com/biagolini/PythonAwsBedrockAgentCoreCodeInterpreter)
+
 ### AWS Bedrock Strands Voice Agent
 
 Real-time voice assistant built with the Strands Agents SDK and Amazon Nova Sonic. Demonstrates bidirectional audio streaming, tool calling, and DynamoDB integration through natural speech conversation.
