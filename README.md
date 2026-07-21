@@ -64,6 +64,12 @@ Demonstrates how to deploy a custom AI agent on Amazon Bedrock AgentCore Runtime
 
 [https://github.com/biagolini/PythonAwsBedrockAgentCoreRuntime](https://github.com/biagolini/PythonAwsBedrockAgentCoreRuntime)
 
+#### Web Search
+
+Demonstrates how to use Amazon Bedrock AgentCore Web Search Tool via Gateway to enable AI agents to search the internet and return results using the Strands Agents SDK.
+
+[https://github.com/biagolini/PythonAwsBedrockAgentCoreWebSearch](https://github.com/biagolini/PythonAwsBedrockAgentCoreWebSearch)
+
 ### AWS Bedrock Strands Voice Agent
 
 Real-time voice assistant built with the Strands Agents SDK and Amazon Nova Sonic. Demonstrates bidirectional audio streaming, tool calling, and DynamoDB integration through natural speech conversation.
