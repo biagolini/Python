@@ -52,6 +52,12 @@ Demonstrates how to use Amazon Bedrock AgentCore Gateway to expose tools via MCP
 
 [https://github.com/biagolini/PythonAwsBedrockAgentCoreGateway](https://github.com/biagolini/PythonAwsBedrockAgentCoreGateway)
 
+#### Knowledge Bases
+
+Demonstrates how to use Amazon Bedrock Managed Knowledge Bases with AgentCore Gateway to enable AI agents to perform RAG (Retrieval-Augmented Generation) over private documents stored in S3.
+
+[https://github.com/biagolini/PythonAwsBedrockAgentCoreKnowledgeBases](https://github.com/biagolini/PythonAwsBedrockAgentCoreKnowledgeBases)
+
 #### Memory
 
 Demonstrates how to use Amazon Bedrock AgentCore Memory to store conversation history and extract long-term semantic memories for AI agents.
